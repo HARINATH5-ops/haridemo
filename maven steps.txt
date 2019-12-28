@@ -1,0 +1,21 @@
+maven steps
+
+1. mvn archetype:generate -DgroupId=firstmvm -DartifactId=hari -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+2.paste it in cmd and click  enter
+3.check the path for maven that is C:\Users\hari\hari
+4.goto cmd and paste this path C:\Users\hari\hari
+5.now we r in this path and type mvn eclipse: and click enter
+6.and check in this path  C:\Users\hari\hari whether we get .classpath and eclipse icon 
+7.go to eclipse and click on import and go to maven click existing maven project -----  next
+8.and give path in browse C:\Users\hari\hari
+9.check pom document and verify the dependencies with respective requirements
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+Page Object Model
+
+It is a Design pattern  which has become popular in selenium test
+
+ 
